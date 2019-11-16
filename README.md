@@ -4,7 +4,7 @@ A simple caesar cipher algorithm written in __python__ to encrypt strings of cha
 
 <ins>Example from Wikipedia:<ins>
   
-![Image description](https://en.wikipedia.org/wiki/File:Caesar3.png)
+![Image description](https://upload.wikimedia.org/wikipedia/commons/4/4a/Caesar_cipher_left_shift_of_3.svg)
 
 ## Packages
 
