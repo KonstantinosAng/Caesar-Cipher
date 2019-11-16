@@ -1,9 +1,10 @@
 # Caesar-Cipher
 
-A simple __caesar__ cipher algorithm to encrypt strings of characters. Caesar cipher algorithm just translates each character in string by a given number.
+A simple caesar cipher algorithm written in __python__ to encrypt strings of characters. Caesar cipher algorithm just translates each character in string by a given number.
 
 <ins>Example from Wikipedia:<ins>
-![Image description](link-to-image)
+  
+![Image description](https://en.wikipedia.org/wiki/Caesar_cipher#/media/File:Caesar_cipher_left_shift_of_3.svg)
 
 ## Packages
 
