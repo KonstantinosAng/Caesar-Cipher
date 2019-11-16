@@ -8,4 +8,4 @@ A simple caesar cipher algorithm written in __python__ to encrypt strings of cha
 
 ## Packages
 
-No extra packages required.
+No extra packages required, only __Python__.
