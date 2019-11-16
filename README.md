@@ -4,6 +4,8 @@ A simple caesar cipher algorithm written in __python__ to encrypt strings of cha
 
 <ins>Example from Wikipedia:<ins>
   
+'Hello World' by 3 --> 'Khoor Zruog'
+  
 ![Figure 1: Example of Caesar Cipher algorithm](https://upload.wikimedia.org/wikipedia/commons/4/4a/Caesar_cipher_left_shift_of_3.svg)
 
 ## Packages
